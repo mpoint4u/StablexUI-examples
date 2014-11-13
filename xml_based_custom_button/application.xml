@@ -16,7 +16,7 @@
     <haxeflag name="--macro" value="com.example.Init.init()"/>	
 		
 	<!-- classpath, haxe libs -->
-	<source path="src" />
+<!--	<source path="src" />-->
 	<haxelib name="openfl" />
     <haxelib name="stablexui" />
 	
